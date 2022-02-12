@@ -12,3 +12,5 @@ Today I Learned
 [Critical Rendering Path](https://kjs-dev.tistory.com/entry/Critical-Rendering-PathCPR)    
 
 [JavaScript Run Environment](https://kjs-dev.tistory.com/entry/Javascript-Run-Environment)
+
+[JavaScript Function Vs Method](https://kjs-dev.tistory.com/entry/Js-%ED%95%A8%EC%88%98-vs-%EB%A9%94%EC%84%9C%EB%93%9C)

@@ -14,3 +14,5 @@ Today I Learned
 [JavaScript Run Environment](https://kjs-dev.tistory.com/entry/Javascript-Run-Environment)
 
 [JavaScript Function Vs Method](https://kjs-dev.tistory.com/entry/Js-%ED%95%A8%EC%88%98-vs-%EB%A9%94%EC%84%9C%EB%93%9C)
+
+[scss 7-1 pattern](https://kjs-dev.tistory.com/entry/scss-7-1-%EA%B5%AC%EC%A1%B0)

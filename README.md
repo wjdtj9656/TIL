@@ -19,3 +19,5 @@ Today I Learned
 [scss 7-1 pattern](https://kjs-dev.tistory.com/entry/scss-7-1-%EA%B5%AC%EC%A1%B0)
 
 [.mjs Vs .js](https://kjs-dev.tistory.com/entry/JS-js-%EC%99%80-mjs)
+
+[JavaScript preventDefault()](https://kjs-dev.tistory.com/entry/JS-preventDefault)

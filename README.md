@@ -27,3 +27,5 @@ Today I Learned
 [Dependency Injection](https://kjs-dev.tistory.com/entry/%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-Dependency-Injection)
 
 [Javascript ArrayFunction](https://kjs-dev.tistory.com/entry/JS-%EB%B0%B0%EC%97%B4-%ED%95%84%EC%88%98%ED%95%A8%EC%88%98-Array-Function)
+
+[CSR VS SSR](https://kjs-dev.tistory.com/entry/CSR-vs-SSR-%EB%B9%84%EA%B5%90)
